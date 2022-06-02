@@ -10,9 +10,10 @@ Skills: REACT / JavaScript /MongoDB/ NodeJs/ ExpressJs/ HTML / CSS/ Bootstrap/ T
 - 🌱 I’m currently learning at Programming Hero 
 
 ### [Live Link]
-This project is [Honda Store]( https://honda-app-91b97.web.app).
+This project is [Honda Store](https://honda-app-91b97.web.app).
 
 ![image](https://user-images.githubusercontent.com/71017764/171545984-e4189441-dd36-434f-bb9b-c63d76d2628d.png)
+[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://user-images.githubusercontent.com/71017764/171545984-e4189441-dd36-434f-bb9b-c63d76d2628d.png)' alt='github' height='500'>](https://honda-app-91b97.web.app) 
 
 
 
