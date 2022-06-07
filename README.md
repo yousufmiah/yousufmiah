@@ -20,11 +20,6 @@ This project is [Honda Store](https://honda-app-91b97.web.app).
 Tour Guide Website [BD Tour Guide](https://bd-tour-c7c18.web.app).
 <a href="https://bd-tour-c7c18.web.app" target="_blank"><img src='https://user-images.githubusercontent.com/71017764/171771955-5c82cafb-d58b-4eef-839d-700caefca18d.png'> </a>
 
-
-
-Tour Guide Website [BD Tour Guide](https://bd-tour-c7c18.web.app).
-<a href="https://bd-tour-c7c18.web.app" target="_blank"><img src='https://user-images.githubusercontent.com/71017764/171771955-5c82cafb-d58b-4eef-839d-700caefca18d.png'> </a>
-
 This this live site: [Car Showroom](https://car-app-yousuf.netlify.app).
 <a href="https://car-app-yousuf.netlify.app" target="_blank"><img src='https://user-images.githubusercontent.com/71017764/171781472-235efc5c-9e1f-41a3-9d69-4ab0b7c85009.png'> </a>
 
