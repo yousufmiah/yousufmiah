@@ -11,7 +11,6 @@ I am a Professional Web Developer || MERN with Front-end and Backend. I am able 
 ### Ability to Work
 #### `HTML`, `CSS`, `Bootastrap`, `React Bootstrap`, `Tailwind`, `DaisyUI`, `Vs.code` / `React`, `JavaScript`, / `MongoDB`, `Nodejs`, `Express`, `Stripe` / `Firebase`, `Firebase` `Authentication`, `React Hook`, `react form`, `Axios`, 
 
-
 - 🔭 Completed a Professional Web Development Course under Programming Hero, Dhaka, Bangladesh 
 - 🌱 I’m currently learning at Programming Hero 
 
