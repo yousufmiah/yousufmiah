@@ -10,7 +10,7 @@ I am a Professional Web Developer || MERN with Front-end and Backend. I am able 
 
 Skills: REACT / JavaScript /MongoDB/ NodeJs/ ExpressJs/ HTML / CSS/ Bootstrap/ Tailwind/
 
-- 🔭 I’m currently working on I am Member of Programming Hero 
+- 🔭 Completed a Professional Web Development Course under Programming Hero, Dhaka, Bangladesh 
 - 🌱 I’m currently learning at Programming Hero 
 
 ### [Live Link]
