@@ -14,7 +14,7 @@ I am a Professional Web Developer || MERN with Front-end and Backend. I am able 
 - 🔭 Completed a Professional Web Development Course under Programming Hero, Dhaka, Bangladesh 
 - 🌱 I’m currently learning at Programming Hero 
 
-### [Live Link]
+### [Live Projects are as follows]
 
 Menufaturer Website [JM Computer](https://tools-478a3.web.app).
 <a href="https://tools-478a3.web.app" target="_blank"><img src='https://user-images.githubusercontent.com/71017764/171981544-a81d4501-ba8e-45d2-baea-89f23a2319e8.png'> </a>
