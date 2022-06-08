@@ -19,35 +19,29 @@ I am a Professional Web Developer || MERN with Front-end and Backend. I am able 
 Menufaturer Website [JM Computer](https://tools-478a3.web.app).
 <a href="https://tools-478a3.web.app" target="_blank"><img src='https://user-images.githubusercontent.com/71017764/171981544-a81d4501-ba8e-45d2-baea-89f23a2319e8.png'> </a>
 
-This project is [Honda Store](https://honda-app-91b97.web.app).
+Live site: [Honda Store](https://honda-app-91b97.web.app).
 <a href="https://honda-app-91b97.web.app" target="_blank"><img src='https://user-images.githubusercontent.com/71017764/171545984-e4189441-dd36-434f-bb9b-c63d76d2628d.png'> </a>
 
-Tour Guide Website [BD Tour Guide](https://bd-tour-c7c18.web.app).
+Live site: [BD Tour Guide](https://bd-tour-c7c18.web.app).
 <a href="https://bd-tour-c7c18.web.app" target="_blank"><img src='https://user-images.githubusercontent.com/71017764/171771955-5c82cafb-d58b-4eef-839d-700caefca18d.png'> </a>
 
-This this live site: [Car Showroom](https://car-app-yousuf.netlify.app).
+live site: [Car Showroom](https://car-app-yousuf.netlify.app).
 <a href="https://car-app-yousuf.netlify.app" target="_blank"><img src='https://user-images.githubusercontent.com/71017764/171781472-235efc5c-9e1f-41a3-9d69-4ab0b7c85009.png'> </a>
 
-### Live site
-[Watch Zone](https://watch-zone-yousuf.netlify.app).
+Live site: [Watch Zone](https://watch-zone-yousuf.netlify.app).
 <a href='https://watch-zone-yousuf.netlify.app' target='_blank'><img src='https://user-images.githubusercontent.com/71017764/172279918-4ea2f494-00ee-4422-b15e-f7ecbb11790c.png'> </a>
 
-### Live site
-[Nice Convention Center](https://convention-center-yousuf.netlify.app).
+Live site: [Nice Convention Center](https://convention-center-yousuf.netlify.app).
 <a href='https://convention-center-yousuf.netlify.app' target='_blank'><img src='https://user-images.githubusercontent.com/71017764/172515099-04fde313-7c66-46ef-8085-4ccddd6c2a78.png'> </a>
 
 #### used: HTML, CSS, Bootstrap, Netlify
 
-
-### Live site
-[Panda Ecommrce](https://panda-ecommerce-yousuf.netlify.app).
+Live site: [Panda Ecommrce](https://panda-ecommerce-yousuf.netlify.app).
 <a href='https://panda-ecommerce-yousuf.netlify.app' target='_blank'><img src='https://user-images.githubusercontent.com/71017764/172516190-43054401-7527-4ff0-9d36-53e160e7cf87.png'> </a>
 
 #### used: HTML, CSS, Bootstrap, Netlify
 
-
-### Live site
-[Nike Shoes](https://nike-react-yousuf.netlify.app).
+Live site: [Nike Shoes](https://nike-react-yousuf.netlify.app).
 <a href='https://nike-react-yousuf.netlify.app' target='_blank'><img src='https://user-images.githubusercontent.com/71017764/172516599-e4adb3db-fab9-4c55-9be6-8dd0fb5c5608.png'> </a>
 
 #### used: HTML, CSS, Bootstrap, Netlify
