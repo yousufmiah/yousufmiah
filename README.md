@@ -1,5 +1,4 @@
 ### Hi there 👋, My name is Md. Yousuf Miah
-#### I am Web Developer || MERN
 
 [I am Web Developer || MERN](https://www.linkedin.com/in/yousufmiah/).
 <div align="center">
