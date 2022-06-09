@@ -6,7 +6,7 @@
 </div>
 
 
-I am a Professional Web Developer || MERN with Front-end and Backend. I am able to develop websites by React, javascript, MongoDB, Nodjs as well as using HTML, CSS, Bootstrap, Tailwind. I like to give my best service as your requirements which will be acceptable for the success point. 
+I am a Professional Web Developer || MERN with Front-end and Backend. I am able to develop websites by React, javascript, MongoDB, Nodjs as well as using HTML, CSS, Bootstrap, Tailwind. I like to effort my best service as your requirements which will be acceptable for the success point. 
 
 ### Ability to Work
 #### `HTML`, `CSS`, `Bootastrap`, `React Bootstrap`, `Tailwind`, `DaisyUI`, `Vs.code` / `React`, `JavaScript`, / `MongoDB`, `Nodejs`, `Express`, `Stripe` / `Firebase`, `Firebase` `Authentication`, `React Hook`, `react form`, `Axios`, 
