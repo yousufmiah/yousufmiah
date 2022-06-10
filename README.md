@@ -17,7 +17,7 @@ I am a Professional Web Developer || MERN with Front-end and Backend. I am able 
 ### [Live Projects are as follows]
 
 Menufaturer Website [JM Computer](https://tools-478a3.web.app).
-<a href="https://tools-478a3.web.app" target="blank"><img src='https://user-images.githubusercontent.com/71017764/172757407-40d23d77-b820-43f6-8994-bcd28c65c1ab.png'> </a>
+<a href="https://tools-478a3.web.app" rel="noopener" ><img src='https://user-images.githubusercontent.com/71017764/172757407-40d23d77-b820-43f6-8994-bcd28c65c1ab.png'> </a>
 
 
 Live site: [Honda Store](https://honda-app-91b97.web.app).
